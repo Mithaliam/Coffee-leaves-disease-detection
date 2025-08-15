@@ -1,4 +1,4 @@
-# Image Processing / Machine Learning Notebook
+# Coffee-leaves-disease-detection
 
 This repository contains a Jupyter Notebook for downloading, extracting, and processing image datasets for machine learning experiments.  
 It is designed to run in **Google Colab** with integration to Google Drive.
